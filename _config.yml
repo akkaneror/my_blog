@@ -14,8 +14,8 @@ github_repo: "my_blog"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-# url: "https://akkaneror.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://akhoa.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://akkaneror.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://akhoa.me" # the base hostname & protocol for your site, e.g. http://example.com/
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -40,8 +40,9 @@ baseurl: "/my_blog" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: KaynorNguyen
+    github: akkaneror
+    linkedin: akka
 
 # Set this to true to get LaTeX math equation support
 use_math: 
