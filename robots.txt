@@ -1,1 +1,1 @@
-Sitemap: https://akhoa.me/my_blog/sitemap.xml
+Sitemap: https://akkaneror.github.io/my_blog/sitemap.xml
